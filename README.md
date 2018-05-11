@@ -1,0 +1,2 @@
+# Grave-M-dio-Agudo
+Trata-se de um indicador visual de formas geométricas representando os conceitos musicais de agudo, medio e grave para uma  turma de  estudantes instrumentistas. Pode  ser utilizado para atividades de improvisação coletiva na qual o professor, ou  um aluno no papel de  “mestre”, pressiona, no teclado do computador,  as teclas “a”, “m”,  ou “g”, e, conforme a tecla, um  retângulo é apresentado:  acima,  no centro  ou abaixo da tela. Os instrumentistas,  que observam  a  tela, devem executar  alguma nota na região correspondente.
